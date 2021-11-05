@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642015910476",
+    "project_id": "restaurantsrecommendation",
+    "storage_bucket": "restaurantsrecommendation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642015910476:android:caf88e940fd0d8115f72e9",
+        "android_client_info": {
+          "package_name": "com.example.penangrestaurantrecommendation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642015910476-88bgrkib5smfpl0de00v2s587ug0idv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb2RbUScq1WqN1nSC3pQUOV4oMEsvzxqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642015910476-88bgrkib5smfpl0de00v2s587ug0idv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
